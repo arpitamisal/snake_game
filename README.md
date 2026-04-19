@@ -4,6 +4,8 @@ A lightweight, browser-based version of the classic Snake game. Move around the 
 
 This project is intentionally small: it uses plain HTML, CSS, and JavaScript with no external dependencies. The core game rules live in a separate module so they can be tested independently from the UI.
 
+<img width="1470" height="805" alt="Screenshot 2026-04-18 at 6 07 12 PM" src="https://github.com/user-attachments/assets/a9645713-2b6c-46f3-842b-0851f4c4fd77" />
+
 ## Features
 
 - Classic grid-based Snake movement
